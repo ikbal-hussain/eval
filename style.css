@@ -1,0 +1,90 @@
+.nav-left{
+    display: inline-block;
+    align-content: end;
+    align-content:space-between;
+
+}
+.nav-middle{
+    width: 600px;
+    display: inline-block;
+}
+.logo{
+    width: 150px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    display: inline;
+}
+
+.nav{
+    align-content:flex-end;
+    display: inline-block;
+    align-content: end;
+}
+.heading{
+    color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+    margin-right: 10px;
+   
+   
+}
+
+.btn{
+    border-radius: 10px;
+    border-color: red;
+    background-color: white;
+   
+  
+}
+
+body{
+    font-family: Open Sans;
+    margin: 20px;
+
+}
+.box{
+    width: 150px;
+    height: 170px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.gift-image{
+        width:150px;
+        height: auto;
+        border-radius: 20px 20px 0 0; 
+}
+.p{
+   font-size: small;
+   align-content: center;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: fit-content;
+}
+
+.box2{
+    width: 200px;
+    height: 250px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.gift-image2{
+    width: 200px;
+    height: auto;
+    border-radius: 20px 20px 0 0; 
+}
